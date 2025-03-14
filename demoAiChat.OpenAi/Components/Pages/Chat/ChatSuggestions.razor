@@ -1,4 +1,4 @@
-@inject IChatClient ChatClient
+﻿@inject IChatClient ChatClient
 
 @if (suggestions is not null)
 {
@@ -19,6 +19,7 @@
         Each suggestion must be phrased as something that I (the user) would ask you (the assistant) in response to your previous message,
         for example 'How do I do that?' or 'Explain ...'.
         If there are no suggestions, reply with an empty list.
+        Rewrite the suggestions in Traditional Chinese (Taiwan - zhTW).
     ";
 
     private string[]? suggestions;
