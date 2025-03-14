@@ -1,3 +1,17 @@
+![](https://img.shields.io/badge/SGS-OAD-orange) 
+![](https://img.shields.io/badge/proj-AI%20Chat%20Template-purple) 
+![](https://img.shields.io/badge/-9-512BD4?logo=dotnet)
+![](https://img.shields.io/badge/Git-555?logo=git)
+![](https://img.shields.io/badge/GitHub-555?logo=github)
+![](https://img.shields.io/badge/Gitea-555?logo=gitea)
+![](https://img.shields.io/badge/OpenAI-412991?logo=openai) 
+![](https://img.shields.io/badge/GitHub_Copilot-555?logo=githubcopilot)
+![](https://img.shields.io/badge/Anthropic-191919?logo=anthropic)
+![](https://img.shields.io/badge/draw.io-555?logo=diagrams.net)
+![](https://img.shields.io/badge/Markdown-555?logo=markdown)
+![](https://img.shields.io/badge/Mermaid-555?logo=mermaid)
+![](https://img.shields.io/badge/Shields.io-555?logo=shieldsdotio)
+
 # 🦜demoAiChat
 
 - 實作微軟發布新 [.NET AI Template](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/)
